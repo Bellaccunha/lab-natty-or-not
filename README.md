@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Good Witch  ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de imagem com a Inteligente artifical no aplicativo Picsart
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Image editing Picsart
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Baixei o aplicativo Picsart, entrei em criar imagem IA, coloquei a descrição Bruxa do bem, poderosa, inteligente que possui um gato preto de estimação, selecionei os estilos magical, fantasy, aquarelle e digital painting e esperei pelo resultado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Esses foram os resultados do meu projeto
+![image](https://github.com/Bellaccunha/lab-natty-or-not/assets/172227173/734c3d7c-8a6b-4cdc-97f1-5376ab0e0460) 
+![image](https://github.com/Bellaccunha/lab-natty-or-not/assets/172227173/17be15b5-4115-4ccf-aa51-cc9ac292294c) 
+![image](https://github.com/Bellaccunha/lab-natty-or-not/assets/172227173/fc7f460c-3c76-420a-ad8d-c12a02d1f440)
+![image](https://github.com/Bellaccunha/lab-natty-or-not/assets/172227173/3f5ea097-7fbd-4fe2-8724-4a39437587b2)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
